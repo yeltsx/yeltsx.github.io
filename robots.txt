@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://yeltsx.github.io/sitemap.xml
